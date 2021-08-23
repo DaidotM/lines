@@ -1,0 +1,21 @@
+body{
+    width: 100%;
+    height: 100vh;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+}
+
+#lineX{
+    position:absolute;
+    height:100vh;
+    width:2px;
+    background-color: black;
+}
+
+#lineY{
+    position:absolute;
+    height:2px;
+    width:100%;
+    background-color: black;
+}
