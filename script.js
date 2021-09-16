@@ -25,7 +25,7 @@ const doubleClick = (e) => {
 }
 document.addEventListener('dblclick', doubleClick);
 
-//Test ruler
+//RULER TEST
 function drawOnCanvas(y) {
     ctx.beginPath();
     ctx.moveTo(0, y);
